@@ -1,3 +1,4 @@
+//C++一个文件
 #include <stdio.h>
 #include <windows.h>
 int main()
