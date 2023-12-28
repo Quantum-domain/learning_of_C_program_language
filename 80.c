@@ -3,7 +3,9 @@
 int main()
 {
     int i;
-    printf("0x%x\n",&i);
+    int p;
+    p=(int)&i;
+    printf("0x%x\n",&p);
     printf("%p\n",&i);
     return 0;
 }
