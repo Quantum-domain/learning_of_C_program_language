@@ -1,4 +1,4 @@
-//格式化输入输出
+//格式化的输入输出
 #include<stdio.h>
 int main()
 {
